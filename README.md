@@ -1,2 +1,3 @@
 # Intra-envy facility location
-Detailed results obtained with the different formulations that we propose for the intra-envy facility location prroblem.
+Instances generated for the computational experiments on the intra-envy facility location problem.
+
