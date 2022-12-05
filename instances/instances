@@ -2,3 +2,7 @@ Instances
 
 - Random (RND): Uniformnly generated in [0,100]
 - Blobs (BLB): generated as clusters with [n/3] clusters and std=1.
+
+rnd#.txt and blb#.txt contain cost (l1-norm) between each pair of users. Each row is in the form "i j cij" where i and j indicate the users and cij the allocation cost between them. These files are designed for the discrete instances. The first row indicates n and d (number of users and dimension of the spaces where the points live).
+rnd#_X.txt and blb#_X.txt contain the coordinates of the users (in R2 or R3).
+
