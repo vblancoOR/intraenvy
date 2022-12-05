@@ -1,0 +1,4 @@
+Instances
+
+- Random (RND): Uniformnly generated in [0,100]
+- Blobs (BLB): generated as clusters with [n/3] clusters and std=1.
