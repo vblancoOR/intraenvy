@@ -1,0 +1,17 @@
+Results for the intra-envy location instances
+
+Model -	Model run: Median, Envy, Intra Envy models
+instance -	instance name file
+n	- number of demand points
+p	- number of facilities to locate
+d	- dimension of the space
+Plants- Coordinates/numbers of facilities open
+Clusters -	Users allocated to same facility
+Time -	CPU Time in seconds
+obj -	Objective Value
+lproot	- relaxed solution after the root node
+MIPGAP -	MIPGap
+Nodes -	Number of explorred nodes in the b&B tree
+Median- Evaluation of median function
+Envy -	Evaluation of Envy function
+IntraEnvy	- Evaluation of intra-envy function
